@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prabanjan
 - 👀 I’m passionate about softwares, coding, designing and managing teams
-- 🌱 I’m have solid experience in front end development, opentext back end softwares and looking for an opportunity to work in open source back end systems.
+- 🌱 I have solid experience in front end development, opentext back end softwares and looking for an opportunity to work in open source back end systems.
 - 💞️ I’m looking to collaborate on any open source projects, ideas and innovation
 - 📫 How to reach me - prabanjann@gmail.com, 8248465106
 

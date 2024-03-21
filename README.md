@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prabanjan
+- 👋 Hi, I’m Prabanjan Nambiyappan
 - 👀 I’m passionate about softwares, coding, designing and managing teams
 - 👀 I have 8+ years of experience in IT 
 - 🌱 I'm a full stack engineer and have experience in Angular, React, HTML, CSS, Javascript, MySQL, Node.js, Express.js, Jasmine, Docker, Jenkins, HCC K8 and Java
